@@ -1,5 +1,5 @@
 import {Component, View, bootstrap} from 'angular2/angular2';
-import ChildComponent from 'child';
+import ChildComponent from './child';
 
 @Component({
   selector: 'parent'
